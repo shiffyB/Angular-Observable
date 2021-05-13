@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "job":1,
+        "salary":20000,
+        "name":"aaaaaaaaa"
+    },
+    {
+        "id": 2,
+        "job":2,
+        "salary":20000,
+        "name":"bbbbb"
+
+    },
+    {
+        "id": 3,
+        "job":2,
+        "salary":100,
+        "name":"cccccc"
+
+    },
+    {
+        "id": 4,
+        "job":3,
+        "salary":500,
+        "name":"dddddddd"
+
+    }
+]

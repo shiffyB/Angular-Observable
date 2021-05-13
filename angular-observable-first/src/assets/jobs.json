@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "jobDescription":"manager"
+    },
+    {
+        "id":2,
+        "jobDescription":"programmer"
+    },
+    {
+        "id":3,
+        "jobDescription":"QA"
+    },
+    {
+        "id":4,
+        "jobDescription":"secretary"
+    }
+]

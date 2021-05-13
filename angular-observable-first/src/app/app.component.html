@@ -1,0 +1,9 @@
+
+<div >
+  <h1>appppppp</h1><nav></nav>
+  <button (click)="setShowWorkers(1)">show Workers</button>
+  <button (click)="setShowWorkers(0)">show Jobs</button>
+  <app-workers-list *ngIf="workersList==1"></app-workers-list>
+  <app-jobs-list *ngIf="workersList==0"></app-jobs-list>
+  
+</div>
